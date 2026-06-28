@@ -1,5 +1,5 @@
 
-<center><img src="assetdata-banner.jpg"></img></center>
+<center><img src="pict\assetdata-banner.jpg"></img></center>
 
 # Dashboard Power BI
 
