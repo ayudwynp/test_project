@@ -2,11 +2,13 @@
 
 Project ini bertujuan untuk membuat dashboard terkait adventureworks
 
-## Sumber data
+## Sumber Data
 
 Data didapatkan dari [kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales/data)
 
-## Step-bystep
+
+## Data Preprocessing
+Step-bystep
 
 - cek missing value
 - cek duplikat data
